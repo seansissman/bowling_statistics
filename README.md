@@ -4,7 +4,7 @@ We should come up with the inputs needed.
 
 This is what I came up with.
 
-I figure once the team's are set up - the only thing you want to input is the player and the score.
+I figure once the team's are set up and the player handicap has been set - the only thing you want to input is the player and the score.
 
 Player, Team, and Score.
 
