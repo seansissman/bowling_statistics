@@ -24,4 +24,9 @@ Matchup (Schedule) Table
 _________
 HomeTeam (TeamID) -- AwayTeam (TeamID) -- Date
 
+Season Table (this doesn't seem right, but I think we need to create like a League Season so you can keep track over my seasons and also I think we should consider making it for many different leagues. That way if we put it out on the web other Bowling leagues can use it.
+______
+SeasonID -- TeamID
+
+
 
