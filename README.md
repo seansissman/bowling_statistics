@@ -14,7 +14,7 @@ Playerid -- Player Name -- Handicap
 
 Team Table
 _________
-TeamID -- Playerid
+LeagueID -- TeamID -- Playerid
 
 Score tables
 _________
@@ -24,7 +24,10 @@ Matchup (Schedule) Table
 _________
 MatchID -- HomeTeam (TeamID) -- AwayTeam (TeamID) -- Date
 
-Season Table (this doesn't seem right, but I think we need to create like a League Season so you can keep track over my seasons and also I think we should consider making it for many different leagues. That way if we put it out on the web other Bowling leagues can use it.
+Season Table (this doesn't seem right, but I think we need to create like a League Season so you can keep track over many seasons and also I think we should consider making it for many different leagues. That way if we put it out on the web other Bowling leagues can use it. 
+
+Have it so that each league can only see their own stuff.
+
 ______
 SeasonID -- TeamID
 
